@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "MobileChat",
+    "slug": "MobileChat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
